@@ -1,0 +1,30 @@
+
+
+.nav_container nav {
+    padding: 20px;
+    width: 100%;
+    height: 60px;
+    background: #8d95de;
+}
+
+.nav_container ul {
+    /* for example */
+    list-style: none;
+    display: inline-flex;
+
+}
+
+.nav_container li {
+    /* for example */
+    font-size: medium;
+    padding: 20px;
+    justify-content: space-between;
+
+}
+
+.nav_container nav div{
+    position: absolute;
+    color: white;
+    top:40px;
+    right: 20px;
+}
